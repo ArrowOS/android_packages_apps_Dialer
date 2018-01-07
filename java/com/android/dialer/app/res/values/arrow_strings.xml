@@ -36,5 +36,14 @@
     <string name="call_via">Call via</string>
     <string name="call_via_dialog_title">Call via\u2026</string>
 
+<<<<<<< HEAD
     <string name="call_log_stats_title">Statistics</string>
+=======
+    <string name="recentIncoming_empty">You have no incoming calls.</string>
+    <string name="recentOutgoing_empty">You have no outgoing calls.</string>
+    <string name="call_log_show_all_slots">All SIMs</string>
+    <string name="call_log_all_calls_header">All calls</string>
+
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+>>>>>>> bcb09b764... Dialer: Add option to disable proximity sensor
 </resources>
