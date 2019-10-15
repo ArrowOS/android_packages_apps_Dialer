@@ -24,7 +24,7 @@
     <string name="incall_vibrate_call_waiting_title">Vibrar en llamada de espera</string>
     <string name="incall_vibrate_hangup_title">Vibrar al colgar</string>
     <string name="incall_vibrate_45_title">Vibrar cada minuto</string>
-    <string name="incall_vibrate_45_summary">El dispositivo vibrará cada 45 segundos durante las llamadas</string>
+    <string name="incall_vibrate_45_summary">Vibrar en el segundo 45 de cada minuto durante las llamadas salientes</string>
     <string name="incall_dnd_dialog_message">Para habilitar No molestar, la aplicación del teléfono necesita permiso para controlar el estado No molestar.\nPor favor, permítalo</string>
     <string name="allow">Permitir</string>
     <string name="deny">Rechazar</string>
