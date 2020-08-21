@@ -67,6 +67,23 @@
       "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "885233ca_6038e4b7",
+        "filename": "java/com/android/dialer/app/res/values/arrow_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2020-08-21T15:48:35Z",
+      "side": 1,
+      "message": ".",
+      "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
     }
   ]
 }
