@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1847e177_d5f29527",
+        "filename": "java/com/android/dialer/app/res/values/arrow_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2020-08-21T14:20:49Z",
+      "side": 1,
+      "message": "Why add this? For what?",
+      "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "716ce6bd_ffc1be56",
+        "filename": "java/com/android/dialer/app/res/values/arrow_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2020-08-21T14:20:49Z",
+      "side": 1,
+      "message": "Why add this? For what?",
+      "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fc36eac3_35216af1",
+        "filename": "java/com/android/dialer/app/res/values/arrow_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2020-08-21T14:20:49Z",
+      "side": 1,
+      "message": "Why add this? For what?",
+      "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "992107e5_7d882a92",
+        "filename": "java/com/android/dialer/app/res/values/arrow_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2020-08-21T14:20:49Z",
+      "side": 1,
+      "message": "Why add this? For what?",
+      "revId": "25a114b18ddbbefe0aa3c2c91861216dfb926597",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    }
+  ]
+}
