@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Vibratsioon kõne ajal</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Vibreeri vastamisel</string>
     <string name="incall_vibrate_call_waiting_title">Vibreeri kõne koputusel</string>
     <string name="incall_vibrate_hangup_title">Vibreeri kõne lõppemisel</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Mitte segada režiimi lubamiseks vajab rakendus Telefon luba režiimi Mitte segada juhtimiseks.\nPalun luba see.</string>
     <string name="allow">Võta vastu</string>
     <string name="deny">Keeldu</string>
-    <string name="disable_proximity_sensor_title">Keela lähedussensor</string>
-    <string name="disable_proximity_sensor_summary">Ärge lülitage puutetundlikku ekraani välja ja kuvage lähedussensoril põhinevat sissetulevat kõnet</string>
-    <string name="sensor_settings_titile">Andurid</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

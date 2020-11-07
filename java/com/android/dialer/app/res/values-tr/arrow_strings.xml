@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Arama titreşimi</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Cevapladığında titre</string>
     <string name="incall_vibrate_call_waiting_title">Arama bekletildiğinde titre</string>
     <string name="incall_vibrate_hangup_title">Kapatıldığında titre</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Rahatsız Etmeyin\'i etkinleştirmek için, Telefon uygulamasının Rahatsız Etmeyin durumunu kontrol etme iznine sahip olması gerekir.\nLütfen buna izin verin.</string>
     <string name="allow">İzin ver</string>
     <string name="deny">Reddet</string>
-    <string name="disable_proximity_sensor_title">Yakınlık sensörünü devre dışı bırak</string>
-    <string name="disable_proximity_sensor_summary">Yakınlık sensörüne bağlı olarak dokunmatik ekranı ve çağrı sırasında ekranı kapatmayın</string>
-    <string name="sensor_settings_titile">Sensörler</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

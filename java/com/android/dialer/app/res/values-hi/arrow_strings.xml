@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_vibration_category_title">In-call vibration</string>
-    <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
+    <string name="incall_vibrate_outgoing_title">कॉल उठ जाने पर कंपन</string>
     <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
     <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
     <string name="incall_vibrate_45_title">Vibrate every minute</string>

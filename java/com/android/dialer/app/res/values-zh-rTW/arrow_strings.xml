@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">通話震動</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">接聽時震動</string>
     <string name="incall_vibrate_call_waiting_title">來電等待時震動</string>
     <string name="incall_vibrate_hangup_title">掛斷時震動</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">為了啟用免打擾功能，電話應用程式需要啟用權限。\n請允許。</string>
     <string name="allow">允許</string>
     <string name="deny">拒絕</string>
-    <string name="disable_proximity_sensor_title">禁用距離感應器</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
     <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
-    <string name="sensor_settings_titile">感應器</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Vibra per le chiamate in arrivo</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Vibra alla risposta</string>
     <string name="incall_vibrate_call_waiting_title">Vibra per chiamate in attesa</string>
     <string name="incall_vibrate_hangup_title">Vibra al termine della chiamata</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Per attivare la modalità Non Disturbare, l\'app Telefono deve essere autorizzata a controllarne lo stato.\nConsenti l\'accesso per abilitare questa funzione.</string>
     <string name="allow">Consenti</string>
     <string name="deny">Nega</string>
-    <string name="disable_proximity_sensor_title">Disabilita il sensore di prossimità</string>
-    <string name="disable_proximity_sensor_summary">Non spegnere il touchscreen e lo schermo in base al sensore di prossimità</string>
-    <string name="sensor_settings_titile">Sensori</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

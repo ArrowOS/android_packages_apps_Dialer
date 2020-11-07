@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">通話中の振動</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">着信応答時に振動する</string>
     <string name="incall_vibrate_call_waiting_title">割込通話時に振動させる</string>
     <string name="incall_vibrate_hangup_title">通話終了時に振動させる</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">マナーモードを有効化するには、電話アプリにマナーモードの状態を操作する権限を許可する必要があります。\n許可して下さい。</string>
     <string name="allow">許可</string>
     <string name="deny">拒否</string>
-    <string name="disable_proximity_sensor_title">近接センサーを無効化</string>
-    <string name="disable_proximity_sensor_summary">近接センサーに基づいて通話中にタッチパネルと画面を OFF にしない</string>
-    <string name="sensor_settings_titile">センサー</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

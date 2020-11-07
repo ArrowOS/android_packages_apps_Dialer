@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Вибрация во время вызова</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
     <string name="incall_vibrate_call_waiting_title">Вибрация при ожидании</string>
     <string name="incall_vibrate_hangup_title">Вибрировать при разъединении</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Для включения режима «Не беспокоить», в приложении «Телефон» должно быть предоставлено разрешение на управление статусом режима «Не беспокоить».\nПожалуйста, предоставьте разрешение.</string>
     <string name="allow">Разрешить</string>
     <string name="deny">Отклонить</string>
-    <string name="disable_proximity_sensor_title">Выключить датчик приближения</string>
-    <string name="disable_proximity_sensor_summary">Не выключать сенсорный экран и отображать входящий вызов на основе датчика приближения</string>
-    <string name="sensor_settings_titile">Датчики</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>
