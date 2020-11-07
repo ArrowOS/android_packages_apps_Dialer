@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Vibreur lors des appels</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Vibrer au décrochage</string>
     <string name="incall_vibrate_call_waiting_title">Vibrer en cas d\'appel en attente</string>
     <string name="incall_vibrate_hangup_title">Vibrer au raccrochage</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Pour activer le mode Ne pas déranger, vous devez autoriser l\'application Téléphone à contrôler l\'état \"Ne pas déranger\".\nVeuillez accorder cette autorisation.</string>
     <string name="allow">Accepter</string>
     <string name="deny">Refuser</string>
-    <string name="disable_proximity_sensor_title">Désactiver le capteur de proximité</string>
-    <string name="disable_proximity_sensor_summary">Ne pas désactiver l\'écran tactile et l\'affichage en cours d\'appel en fonction du capteur de proximité</string>
-    <string name="sensor_settings_titile">Capteurs</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>

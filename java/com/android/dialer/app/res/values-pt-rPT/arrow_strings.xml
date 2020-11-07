@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">Vibração durante a chamada</string>
+    <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Vibrar ao atender</string>
     <string name="incall_vibrate_call_waiting_title">Vibrar com chamada em espera</string>
     <string name="incall_vibrate_hangup_title">Vibrar ao terminar</string>
@@ -32,7 +32,7 @@
     <string name="incall_dnd_dialog_message">Para activar Não perturbar, a aplicação Telefone precisa de permissão para controlar o estado Não perturbe.\nPor favor, permita-o.</string>
     <string name="allow">Permitir</string>
     <string name="deny">Negar</string>
-    <string name="disable_proximity_sensor_title">Desativar o sensor de proximidade</string>
-    <string name="disable_proximity_sensor_summary">Não desligue o ecrã sensível ao toque e apresente a chamada com base no sensor de proximidade</string>
-    <string name="sensor_settings_titile">Sensores</string>
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>
